@@ -19,15 +19,16 @@
 }
 
 .nav-logo{
-    height: 50px;
-    width: 100px;
+    height: 3.5rem;
+    width: 3.5rem;
 }
 
-.logo{
-    background-image: url("img.png");
-    background-size: cover;
-    height: 50px;
-    width: 100%;
+.logo_png{
+    
+    height: 3.5rem;
+    width: 3.5rem;
+    border-radius: 100%;
+    
 }
 
 .border{
